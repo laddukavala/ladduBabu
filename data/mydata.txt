@@ -1,0 +1,27 @@
+
+{
+    "address": "0x3b7cd11b52113eb5625c114339b0b63f7f48c690", own
+    "private": "42baaf04dcf57afbcfb6db3eb098bc05fa2d641fd6685b347283e12068e35a22"
+}
+
+
+{
+    "address": "0xd02bd6c9551a68e0c927c0322fdd55fb435aa37f",  own
+    "private": "70625b63bb52992dd4e6b94d7c72ab14d8e9e726f473f9ce299ec15c21f0fba9"
+}
+
+{
+    "address": "0x37fe7501ca158af79af926d129bc8f331c8d0086",
+    "private": "0be55cae1ed2dacdba84fd024586fc927ae1d061b51b1b3303335f7f5e5f73c7"
+}
+
+{
+    "address": "0xDF5fd3951948188E6eD256a46Df82d4a481177B4", AKT@
+    "private": "99808260dd47484bb91c67f75a4fb1052c5954d95267343e7380f4d49a7de00d"
+}
+
+
+{
+    "address": "0xBd2Ec9C59B8850e0F8442891C7faDab9a93ecF37",
+    "private": "15050699397635093d40ec8fe635478bc1bcae6273e4749284b9ebba4227ac09"
+}

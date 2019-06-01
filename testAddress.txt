@@ -1,0 +1,26 @@
+
+
+TEST net address main
+
+{
+    "result": true,
+    "data": {
+        "private": "8dba419cf8347f42eb3971f67027d0f70f7cbc336aa7b25c2e18ac382dc983f8",
+        "public": "0358e8fee379d8d3f50a909c099dd716a20f39878a47300fefc951cca1a6324cd7",
+        "address": "mkSLxHJpy9BhbPqKWtXmjtwMBJ3UmZo5q5",
+        "wif": "cSLCe7WsLegB9Bu8ELfs7uignGokGiVYxUSwJrbMtT7dkixQV76x"
+    }
+}
+
+
+================2nd account==================
+{
+    "result": true,
+    "data": {
+        "private": "837cbb86e75bb69a0717bd8ed3241227f45593fd5df95db7c0cd55128c6c3754",
+        "public": "032afc216a787bad4bf688f085a67963c7b646acabe2231e78f7f37aae681b4abb",
+        "address": "n1n1CAy3yXacTH4ir13RKxg9aiXAyjMUXL",
+        "wif": "cRzJ6okHqHgXik1a7MLWtQiwFKCn8JS28tGGBzZ1ayXpb5CSeSWY"
+    }
+}
+
